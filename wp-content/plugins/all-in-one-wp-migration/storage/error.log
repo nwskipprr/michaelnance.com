@@ -1,0 +1,6 @@
+Oct 15 2019 20:56:51
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/sites\/mrn\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/u2ac8vndwtr1\/export.log): failed to open stream: No such file or directory","File":"\/Applications\/MAMP\/sites\/mrn\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1297}
+
+Oct 15 2019 20:56:51
+{"Number":2,"Message":"rmdir(\/Applications\/MAMP\/sites\/mrn\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/u2ac8vndwtr1): No such file or directory","File":"\/Applications\/MAMP\/sites\/mrn\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php","Line":68}
+
